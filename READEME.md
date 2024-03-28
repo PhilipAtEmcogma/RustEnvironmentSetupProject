@@ -1,0 +1,1 @@
+## This project is a 'getting familiar with RUST' project and so I could use RUST to build a AutoGPT application.
